@@ -1,4 +1,4 @@
-# EstoqueComInterface
+# Big data com interface
 
 ## Estrutura
 - `main.py` → Arquivo principal (inicia a aplicação)
